@@ -24,7 +24,7 @@ a {
   box-sizing: border-box;
   background-color: #E4F9F5;
   position: relative;
-  background-image: url("/Users/liviaagyekum/Desktop/Web Development/CSS- My Site/images/profile_pic.png");
+  background-image: url("../images/profile_pic.png");
   background-repeat: no-repeat;
   background-size: 1000px;
   background-position: right bottom;
